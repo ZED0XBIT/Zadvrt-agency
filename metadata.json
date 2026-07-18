@@ -1,0 +1,6 @@
+{
+  "name": "Zadvrt Group",
+  "description": "A premium, responsive, and high-converting advertising agency website featuring an interactive AI Campaign Engine and sleek dark/light design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
